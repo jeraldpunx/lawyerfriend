@@ -1,0 +1,15 @@
+ul.checked {
+  list-style: none;
+  padding: 0; }
+  ul.checked li {
+    padding-left: 1rem; }
+    ul.checked li:before {
+      content: '\f00c';
+      position: absolute;
+      left: 0;
+      font-family: FontAwesome; }
+
+* {
+  box-sizing: border-box; }
+
+/*# sourceMappingURL=custom.css.map */
